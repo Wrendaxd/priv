@@ -1,0 +1,14 @@
+{
+  "token": "",
+  "prefix": [".","!","r!"],
+  "guildID": "",
+  "BotClientID": "",
+  "mongoUrl": "",
+  "owners": ["",""],
+  "botDurum": "Jaylen ❤️",
+  "botSes": "",
+   
+  "dmMessages": true,
+
+  "banlimit": 3
+}
